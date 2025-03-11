@@ -15,7 +15,7 @@ This Python script extracts text and structure from PDF files and converts them 
 To get started, follow these steps:
 
 1. **Clone the repository**:
-     git clone https://github.com/yourusername/pdf-to-json-converter.git
+     git clone https://github.com/Druspect/PDF2Json
 
 3. **Navigate to the project directory**:
      cd pdf-to-json-converter
