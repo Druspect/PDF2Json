@@ -2,6 +2,9 @@
 
 This Python script extracts text and structure from PDF files and converts them into a structured JSON format. It is designed to handle various PDF structures, filter out noise, and provide a clean, hierarchical JSON output suitable for further processing or analysis.
 
+# Reason
+The Main reason for even building such a converter is because ai's and advanced file parsing techniques greatly prefer a hierarchacle structure compared to other formats.
+
 ## Features
 
 - Extracts metadata such as title, author, and creation date.
